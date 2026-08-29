@@ -10,7 +10,7 @@ This is not a project. It is a scratch file, written once to answer a single que
 
 > This repository was reconstructed in 2026 from a filesystem archive. The code was never under version control at the time.
 >
-> **The commit date is the real modification time of the original file**, recovered with `stat`: `2019-10-09 07:39:08` local time (UTC+03:30). One commit is dated 2026: this README.
+> **The commit date is the real modification time of the original file**, recovered with `stat`: `2019-10-09 07:39:08` local time (UTC+03:30). One commits are dated 2026: the README, the rendered previews, and any corrections. Each is labelled as such in its commit message.
 
 The original file was named `محاسبه سود.txt` — *mohasebe-ye sood*, "profit calculation" — a `.txt` because it was never meant to be compiled by anything but the online compiler it was pasted into. It is renamed `profit.cpp` here so GitHub highlights it.
 
